@@ -1,6 +1,6 @@
 errors.txt
-game/cache
-game/saves
+game/cache/
+game/saves/
 *.rpyc
 *.save
 log.txt
